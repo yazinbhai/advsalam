@@ -1,0 +1,6 @@
+*.docx
+*.gdoc
+*.zip
+.playwright-cli/
+.DS_Store
+Thumbs.db
